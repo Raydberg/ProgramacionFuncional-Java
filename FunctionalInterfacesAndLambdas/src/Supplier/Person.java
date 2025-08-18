@@ -1,4 +1,4 @@
-package supplier;
+package Supplier;
 
 public class Person {
     public String name;
