@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DataFlows/DataFlows.iml" filepath="$PROJECT_DIR$/DataFlows/DataFlows.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design Pattern/Design Pattern.iml" filepath="$PROJECT_DIR$/Design Pattern/Design Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/FunctionalInterfacesAndLambdas/FunctionalInterfacesAndLambdas.iml" filepath="$PROJECT_DIR$/FunctionalInterfacesAndLambdas/FunctionalInterfacesAndLambdas.iml" />
       <module fileurl="file://$PROJECT_DIR$/NewFeatures/NewFeatures.iml" filepath="$PROJECT_DIR$/NewFeatures/NewFeatures.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProgramacionFuncional-Java.iml" filepath="$PROJECT_DIR$/ProgramacionFuncional-Java.iml" />
